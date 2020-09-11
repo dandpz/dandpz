@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dani</h1>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/daniele-dapuzzo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -10,7 +11,7 @@
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<h3 align="center">Let me introduce myself</h3>
+<h2>Let me introduce myself</h2>
 
 ```python
 class Myself:
