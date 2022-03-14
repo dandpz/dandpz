@@ -47,7 +47,7 @@ if __name__ == '__main__':
 ```
 
 ## Languages I speak
-<p align="left">
+
 [![My Skills](https://skillicons.dev/icons?i=py,ts,go,java)](https://skillicons.dev)
 
 
