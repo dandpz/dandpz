@@ -52,17 +52,9 @@ if __name__ == '__main__':
 
 
 ## Tools & Platforms
-<p align="left">
-<img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/> 
-<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
-<img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/azure-%230089D6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white"/> 
-<img src="https://img.shields.io/badge/ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white"/> 
-<img src="https://img.shields.io/badge/anaconda-%2342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/> 
-<img src="https://img.shields.io/badge/jetbrains-%23000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white"/> 
-<img src="https://img.shields.io/badge/postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/> 
-<img src="https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white"/> 
-<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/> 
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,git,docker,mongodb,mysql,postgres,nginx,redis,nodejs,graphql,rabbitmq&perline=5)](https://skillicons.dev)
+
 
 
  
