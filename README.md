@@ -48,10 +48,7 @@ if __name__ == '__main__':
 
 ## Languages I speak
 <p align="left">
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> 
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
+[![My Skills](https://skillicons.dev/icons?i=py,ts,go,java)](https://skillicons.dev)
 
 
 ## Tools & Platforms
