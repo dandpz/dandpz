@@ -27,4 +27,4 @@
  <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandpz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" />
     <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=dandpz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" />
 <br/>
-<a href="https://www.buymeacoffee.com/dandpz" target="_blank"><img  align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 150px !important" ></a>
+<a href="https://www.buymeacoffee.com/dandpz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
